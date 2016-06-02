@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotificationTest</string>
+    <string name="notification_summary_content">收到 %s 个通知</string>
+</resources>
